@@ -78,7 +78,7 @@ int main(int argc, char* argv[]) {
 
             // write buffer_string to file
             writeToFile(output_file, buffer_string);
-
+    
             printf("Writer exit \n");
         } else {
             close(reader_pipe[1]);
