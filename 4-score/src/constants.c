@@ -1,3 +1,3 @@
 #include "constants.h"
 
-const int BUFFER_SIZE = 2000;
+const int BUFFER_SIZE = 5000;
